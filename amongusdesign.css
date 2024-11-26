@@ -1,0 +1,75 @@
+
+
+@font-face {
+    font-family: "RWBY";
+    src: url('fonts/RWBY.ttf') format('truetype');
+}
+
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-image: url(moon.jpg);
+    
+    
+     
+}
+
+
+h1 {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+
+h2 {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+    
+}
+
+#curriculo {
+    font-family: "RWBY";
+    color:rgb(184,93,93)
+}
+
+#botão_CHS {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+#botão_CNT {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+#botão_IOT {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+#botão_LGG {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+#botão_MAT {
+    font-family: "RWBY";
+    color:rgb(184,93,93);
+}
+
+header {
+    font-family: "RWBY";
+    display: flex; 
+    z-index: 10;
+    flex-direction: row; 
+    justify-content: space-around; 
+    align-items: center; 
+    text-align: center; 
+    padding: 20px;
+    color: rgb(184,93,93);
+}
+
+#clock {
+    font-size: 2em;
+    font-weight: bold;
+}

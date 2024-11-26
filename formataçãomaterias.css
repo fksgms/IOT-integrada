@@ -1,0 +1,16 @@
+h1{
+    font-family: "RWBY";
+    display: flex; 
+    z-index: 10;
+    justify-content: space-around; 
+    align-items: center; 
+    text-align: center; 
+    padding: 20px;
+    position:relative;
+    bottom: 40px;
+}
+
+hr {
+    border-color: rgb(184,93,93);
+    border-bottom: 10px;
+}
